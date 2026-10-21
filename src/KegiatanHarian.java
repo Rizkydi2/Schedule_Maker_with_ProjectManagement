@@ -7,7 +7,7 @@ public class KegiatanHarian extends Kegiatan {
     private int prioritas;   
 
 
-    public KegiatanHarian(String namaKegiatan, String hari, String waktuMulai, String waktuSelesai,
+    public KegiatanHarian(String namaKegiatan, String Hari, String waktuMulai, String waktuSelesai,
                           String kategori, int prioritas) {
         super(namaKegiatan, hari, waktuMulai, waktuSelesai);
         this.kategori = kategori;
