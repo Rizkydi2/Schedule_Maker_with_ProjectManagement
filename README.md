@@ -23,12 +23,12 @@ Aplikasi web berbasis **Java** untuk memenuhi tugas Project Schedule Management.
 4. Buka browser: **http://localhost:8081**
 
 ### Terminal
-```bash
+bash
 cd Schedule_Maker-develop
 mkdir -p out
 javac -d out src/*.java
 java -cp out src.Main
-```
+
 
 Kemudian buka **http://localhost:8081**.
 
